@@ -1,0 +1,10 @@
+{
+  "AppSettings": {
+    "SiteTitle": "EPA_ICEMS"
+  },
+  "Data": {
+    "DefaultConnection": {
+      "ConnectionString": "Server=(localdb)\\mssqllocaldb;Database=aspnet5-EPA_ICEMS-22f4af25-5f83-42bb-87c2-21ed2a87f20e;Trusted_Connection=True;MultipleActiveResultSets=true"
+    }
+  }
+}
